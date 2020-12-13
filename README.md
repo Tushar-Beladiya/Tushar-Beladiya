@@ -11,6 +11,8 @@
 
 - 👨‍💻 All of my projects are available at [tusharbeladiya.ml](tusharbeladiya.ml)
 
+- 🤝 I’m looking for help with AWS
+
 - 💬 Ask me about **react, Nodejs**
 
 - 📫 How to reach me **tusharbeldiya145@gmail.com**
