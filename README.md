@@ -5,13 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tushar-beladiya" alt="tushar-beladiya" /></a> </p>
 
-- 🔭 I’m currently working on ReactJs, NodeJs, gatsby, NextJs [Providore](providore.co)
+- 🔭 I’m currently working on ReactJs, NodeJs, gatsby, NextJs
 
 - 🌱 I’m currently learning **React-native**
-
-- 👯 I’m looking to collaborate on [Providore](Providore)
-
-- 🤝 I’m looking for help with [Providore](Providore)
 
 - 👨‍💻 All of my projects are available at [tusharbeladiya.ml](tusharbeladiya.ml)
 
